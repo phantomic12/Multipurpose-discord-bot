@@ -6,7 +6,7 @@
   "dependencies": {
     "@discordjs/builders": "^1.5.0",
     "@discordjs/opus": "^0.9.0",
-    "@discordjs/voice": "^0.15.0",
+    "@discordjs/voice": "^0.16.0",
     "anime-actions": "^1.0.6",
     "axios": "^1.3.4",
     "booru": "^2.5.3",
