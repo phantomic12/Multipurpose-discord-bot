@@ -28,7 +28,7 @@
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
     "erela.js-spotify": "^1.2.0",
-    "got": "^12.6.0",
+    "got": "^13.0.0",
     "math-expression-evaluator": "^2.0.2",
     "memer-api": "^4.0.1",
     "nekos.life": "^3.0.0",
